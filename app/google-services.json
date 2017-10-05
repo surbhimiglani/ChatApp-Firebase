@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1031362332873",
+    "firebase_url": "https://surbhi-a2f21.firebaseio.com",
+    "project_id": "surbhi-a2f21",
+    "storage_bucket": "surbhi-a2f21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031362332873:android:94c82ad7d6230aee",
+        "android_client_info": {
+          "package_name": "com.example.surbhimiglani.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031362332873-1heq7ukcdm5dorsu2fltav0fgcvoat21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.surbhimiglani.myapplication",
+            "certificate_hash": "740dfad4209f82acc202253f8fc95505dfb28089"
+          }
+        },
+        {
+          "client_id": "1031362332873-2h0he2s2l93b6gpiuoks5163rjksqcdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfGowv0HEHWUNc-JzBc71KuCjKXXipuK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031362332873-2h0he2s2l93b6gpiuoks5163rjksqcdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031362332873:android:a1eeda9575f59548",
+        "android_client_info": {
+          "package_name": "com.example.surbhimiglani.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031362332873-2s2vm6kj5q1q1e6cpiii70qmvlogn2vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.surbhimiglani.firebasechatapp",
+            "certificate_hash": "740dfad4209f82acc202253f8fc95505dfb28089"
+          }
+        },
+        {
+          "client_id": "1031362332873-2h0he2s2l93b6gpiuoks5163rjksqcdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfGowv0HEHWUNc-JzBc71KuCjKXXipuK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031362332873-2h0he2s2l93b6gpiuoks5163rjksqcdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
